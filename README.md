@@ -4,4 +4,4 @@ The system uses the KNN algorithm with cosine similarity in order to find images
 
 The feature vector of all images are extracted from the internal layers of a convolutional deep neural network.
 
-This prototype is based on Fashion MNIST dataset images.
+This prototype is based on Fashion MNIST dataset.
